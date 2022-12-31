@@ -1,6 +1,6 @@
 package com.empwagepractiseproblem;
 
-import java.util.Scanner; until
+import java.util.Scanner;
 
 public class DailyWage {
     public static void main(String[] args) {
